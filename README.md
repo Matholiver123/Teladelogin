@@ -1,33 +1,29 @@
-#Sistema de Cadastro e Login em Python
+# Sistema de Cadastro e Login em Python
 
-Sobre o projeto
+## Sobre o projeto
 
 Projeto desenvolvido durante meus estudos de Python, com o objetivo de praticar lógica de programação e desenvolver um sistema simples de cadastro e autenticação de usuários.
 
-Funcionalidades
+## Funcionalidades
 
-Cadastro de usuário.
+- Cadastro de usuário.
+- Validação de nome.
+- Cadastro de e-mail e senha.
+- Confirmação de senha.
+- Sistema de login.
+- Limite de três tentativas.
+- Bloqueio após tentativas incorretas.
 
-Validação de nome.
+## Tecnologias utilizadas
 
-Cadastro de e-mail e senha.
+- Python 3.14
+- Match Case
+- While
+- If e Else
+- Variáveis e operadores lógicos.
 
-Confirmação de senha.
+## Objetivo
 
-Sistema de login.
+Praticar conceitos fundamentais de Python e aprimorar minhas habilidades em desenvolvimento de software.
 
-Limite de três tentativas.
-
-Bloqueio após tentativas incorretas.
-
-Tecnologias utilizadas
-
-Python 3.14
-
-Match Case
-
-While
-
-If e Else
-
-Variáveis e operadores lógicos.
+**Projeto desenvolvido para fins educacionais.**
